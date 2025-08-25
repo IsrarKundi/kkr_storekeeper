@@ -20,7 +20,7 @@ class DashboardHeader extends StatelessWidget {
               // Logo at the start
               Image.asset(
                 'assets/pngs/kkr_logo.png',
-                width: 98,
+                width: 98, //updated
                 height: 98,
                 fit: BoxFit.contain,
               ),
